@@ -1,0 +1,1578 @@
+[
+    {
+    "id":1,
+    "name":"belgian waffle",
+    "desc":"A true classic with many fans worldwide. A Belgian waffle requires a topping and at Rajissimo you can choose the toppings yourself and challenge the classic Belgian dessert. Choose one or more toppings.",
+    "imgSrc":"",
+    "price":"65",
+    "offerPrice":"45",
+    "isOffer":false,
+    "productType":1,
+    "tag":"",
+    "dietOpt":"",
+    "options": [
+      {
+         "optName":"gelato",
+         "selectOpt":[
+            {
+               "name":"a bit hazel'nutty",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"black panther",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cheescake heaven",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate obsession",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"lemon bitterness",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"pistachio grinch",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"strawberry dream",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"vanilla bean",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"mango madness",
+               "color":"",
+               "dietOpt":"v"
+            }
+         ],
+         "optDesc":"choose one flavor",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"quella",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max 2 sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"soft ice 0,1l.",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 3 toppings.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 3
+      }
+    ]
+ },
+ {
+    "id":2,
+    "name":"waffle stick",
+    "desc":"A waffle stick is actually pancake batter baked on a waffle stick, so it's more handy when you're walking with it or want to take pictures for Instagram. Design your unique waffle stick by putting together toppings and decorating it yourself. A real pleasure for young and old.",
+    "imgSrc":"",
+    "price":"65",
+    "offerPrice":"49",
+    "isOffer":true,
+    "productType":1,
+    "tag":"recommended",
+    "dietOpt":"",
+    "options": [
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"quella",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose one sauce.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose one topping",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      }
+    ]
+ },
+ {
+    "id":3,
+    "name":"churros my way",
+    "desc":"Golden, crispy churros. Rajissimo Churros are always freshly made, golden and crispy on the outside and made with love. Add your favorite topping for a personalize experience.",
+    "imgSrc":"",
+    "price":"From 65",
+    "offerPrice":"From 49",
+    "isOffer":false,
+    "productType":1,
+    "tag":"do it your way!",
+    "dietOpt":"v",
+    "options": [
+      {
+         "optName":"sugar",
+         "selectOpt":[
+            {
+               "name":"white sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cinnamon sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"no sugar",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"quella",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"soft ice 0,1l.",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 3 toppings",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 3     
+      }
+    ]
+ },
+ {
+    "id":4,
+    "name":"the original",
+    "desc":"Rajissimo Churros are always freshly made, golden and crispy on the outside and made with love.",
+    "imgSrc":"",
+    "price":"65",
+    "offerPrice":"49",
+    "isOffer":true,
+    "productType":1,
+    "tag":"",
+    "dietOpt":"v",
+    "options": [
+      {
+         "optName":"sugar",
+         "selectOpt":[
+            {
+               "name":"white sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cinnamon sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"no sugar",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"quella",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"soft ice 0,1l.",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 3 toppings",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 3     
+      }
+    ]
+   },
+ {
+    "id":5,
+    "name":"the quella",
+    "desc":"Comes with our unique homemade chocolate sauce Quella. Rajissimo Churros are always freshly made, golden and crispy on the outside and made with love. Optional sugar topping.",
+    "imgSrc":"",
+    "price":"75",
+    "offerPrice":"56",
+    "isOffer":true,
+    "productType":1,
+    "tag":"",
+    "dietOpt":"v",
+    "options": [
+      {
+         "optName":"sugar",
+         "selectOpt":[
+            {
+               "name":"white sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cinnamon sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"no sugar",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 aditional sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"soft ice 0,1l.",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 3 toppings",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 3     
+      }
+    ]
+ },
+ {
+    "id":6,
+    "name":"caramel churros",
+    "desc":"Churros with sweet caramel sauce. Rajissimo's churros are always freshly made. Golden and crispy on the outside and soft on the inside. Always made with love. Optional sugar topping.",
+    "imgSrc":"",
+    "price":"75",
+    "offerPrice":"56",
+    "isOffer":true,
+    "productType":1,
+    "tag":"",
+    "dietOpt":"",
+    "options": [
+      {
+         "optName":"sugar",
+         "selectOpt":[
+            {
+               "name":"white sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cinnamon sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"no sugar",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"quella",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 aditional sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"soft ice 0,1l.",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 3 toppings",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 3     
+      }
+    ]
+ },
+ {
+    "id": 7,
+    "name": "the soft nutty",
+    "desc": "Soft ice, Quella & crunchy nut sprinkles. Rajissimo Churros are always freshly made, golden and crispy on the outside and made with love. Optional sugar topping.",
+    "imgSrc":"",
+    "price": "85",
+    "offerPrice": "64",
+    "isOffer": false,
+    "productType": 1,
+    "tag":"",
+    "dietOpt": "",
+    "options": [
+      {
+         "optName": "sugar",
+         "selectOpt":
+         [
+            {
+               "name":"white sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cinnamon sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"no sugar",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"white chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 aditional sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 1 extra topping.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 1     
+      }
+    ]
+}, 
+ {
+    "id": 8,
+    "name": "white sensation",
+    "desc": "Soft ice and delicious homemade white chocolate sauce. Rajissimo Churros are always freshly made, golden and crispy on the outside and made with love. Optional sugar topping.",
+    "imgSrc":"",
+    "price": "85",
+    "offerPrice": "64",
+    "isOffer": false,
+    "productType": 1,
+    "tag":"",
+    "dietOpt":"",
+    "options": [
+      {
+         "optName":"sugar",
+         "selectOpt":[
+            {
+               "name":"white sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"cinnamon sugar",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"no sugar",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+         "optSubDesc":"",
+         "optPrice":0,
+         "optRequired":1,
+         "optMax": 1     
+      },
+      {
+         "optName":"sauces",
+         "selectOpt":[
+            {
+               "name":"quella",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"chocolate",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"caramel",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"pink ruby chocolate",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 aditional sauces.",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      },
+      {
+         "optName":"toppings",
+         "selectOpt":[
+            {
+               "name":"nuts",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"oreo",
+               "color":"",
+               "dietOpt":"v"
+            },
+            {
+               "name":"tivoli sprinkles",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+               "name":"chocolate sprinkles",
+               "color":"",
+               "dietOpt":""
+            }
+         ],
+         "optDesc":"choose max. 2 extra toppings",
+         "optSubDesc":"",
+         "optPrice":10,
+         "optRequired":0,
+         "optMax": 2     
+      }
+    ]
+}, 
+ {
+    "id": 9,
+    "name": "gelato box 1000ml.",
+    "desc": "All our ice cream is freshly made and therefore our range changes from day to day, shop to shop. We strive to have as many variants as possible. Choose up to 3 variants per ice box.",
+    "imgSrc":"",
+    "price": "145",
+    "offerPrice": "109",
+    "isOffer": true,
+    "productType": 2,
+    "tag":"",
+    "dietOpt":"v",
+    "options": [
+      {
+         "opt1Name": "gelato",
+         "opt1Options":[
+             {
+                "name":"a bit hazel'nutty",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"black panther",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"cheescake heaven",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"chocolate obsession",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"lemon bitterness",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"pistachio grinch",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"strawberry dream",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"vanilla bean",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"mango madness",
+                "color":"",
+                "dietOpt":"v"
+             }
+          ],
+          "opt1Desc":"choose one flavor",
+          "opt1SubDesc":"",
+          "opt1Price":0,
+          "opt1Required":1,
+          "opt1Max": 1     
+      }
+    ]
+ }, 
+ {
+    "id": 10,
+    "name": "gelato shake",
+    "desc": "Imagine a seductive creamy intense milkshake experience - that's gelato Shake! We strive to always have at least ten freshly made varieties on the counter and because we make our own gelato, you can choose from one of the many daily flavors for your gelato shake.",
+    "imgSrc":"",
+    "price": "68",
+    "offerPrice": "51",
+    "isOffer": true,
+    "productType": 3,
+    "tag":"",
+    "dietOpt":"",
+    "options": [
+      {
+         "optName": "gelato",
+         "selectOpt":[
+             {
+                "name":"a bit hazel'nutty",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"black panther",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"cheescake heaven",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"chocolate obsession",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"lemon bitterness",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"pistachio grinch",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"strawberry dream",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"vanilla bean",
+                "color":"",
+                "dietOpt":""
+             },
+             {
+                "name":"mango madness",
+                "color":"",
+                "dietOpt":"v"
+             }
+          ],
+     
+         "optDesc": "choose one flavor.",
+         "optSubDesc":"",
+         "optPrice": 0,
+         "optRequired": 1,
+         "optMax": 1     
+      }
+    ]
+ }, 
+ {
+    "id": 11,
+    "name": "sorbet smoothie",
+    "desc": "Freshly made sorbet with elderflower juice. Enjoy a delicious cool and refreshing drink.",
+    "imgSrc":"",
+    "price": "68",
+    "offerPrice": "51",
+    "isOffer": true,
+    "productType": 3,
+    "tag":"",
+    "dietOpt":"v",
+    "options": [
+      {
+         "optName": "sorbet",
+         "selectOpt":[
+             {
+                "name":"watermelon",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"lemon bitterness",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"strawberry dream",
+                "color":"",
+                "dietOpt":"v"
+             },
+             {
+                "name":"mango madness",
+                "color":"",
+                "dietOpt":"v"
+             }
+          ],
+         "optDesc": "choose one flavor.",
+         "optSubDesc":"",
+         "optPrice": 0,
+         "optRequired": 1,
+         "optMax": 1     
+      }
+    ]
+ },
+ {
+    "id": 12,
+    "name": "coffee shake",
+    "desc": "Here you get an extra sweet coffee dessert in the best Italian style. Blended vanilla gelato with a double espresso shot topped with whipped cream, syrup and crumble.",
+    "imgSrc":"",
+    "price": "68",
+    "offerPrice": "51",
+    "isOffer": true,
+    "productType": 3,
+    "tag":"",
+    "dietOpt":"",
+    "options": []
+ }, 
+ {
+    "id": 13,
+    "name": "ice latte",
+    "desc": "We love iced coffee and of course we use freshly made barista espresso together with milk or a herbal drink in our Ice latte. Choose syrup if you want it sweet.",
+    "imgSrc":"",
+    "price": "68",
+    "offerPrice": "51",
+    "isOffer": true,
+    "productType": 3,
+    "tag":"",
+    "dietOpt":"v",
+    "options": [
+      {
+         "optName": "milk",
+         "selectOpt":[
+            {
+               "name": "dairy milk",
+               "color":"",
+               "dietOpt":""
+            },
+            {
+             "name": "plantbased milk",
+             "color":"",
+             "dietOpt":"v"
+          }
+         ],
+         "optDesc": "choose your milk.",
+         "optSubDesc":"",
+         "optPrice": 0,
+         "optRequired": 1,
+         "optMax": 1     
+      },
+      {
+         "optName": "extras",
+         "selectOpt":[
+            {
+               "name": "vanilla syrup",
+               "color":"",
+               "dietOpt": "v"
+            }
+         ],
+         "optDesc": "choose extras for your drink.",
+         "optSubDesc":"",
+         "optPrice": 5,
+         "optRequired": 0,
+         "optMax": 0     
+      }
+    ]
+ }, 
+ {
+    "id": 14,
+    "name": "water bottle",
+    "desc": "500ml.",
+    "imgSrc":"",
+    "price": "25",
+    "offerPrice": "",
+    "isOffer": false,
+    "productType": 3,
+    "tag":"",
+    "dietOpt":"",
+    "options": []
+ },
+ {
+   "id": 15,
+   "name": "me myself & i",
+   "desc": "The perfect combo when you don't want to share, but still want both dessert and a mouth-watering refreshment. Choose 1 dessert; churros, waffle stick or Belgian waffle. You can also choose 1 optional topping and 1 beverage.",
+   "imgSrc":"",
+   "price": "125",
+   "offerPrice": "88",
+   "isOffer": true,
+   "productType": 5,
+   "tag": "popular",
+   "dietOpt":"",
+   "options": [
+      {
+         "optName": "dessert",
+         "selectOpt":[
+            {
+               "name": "churros",
+               "color":"",
+               "dietOpt":"v",
+               "subOptions": [
+                  {
+                     "optName":"sugar",
+                     "optOptions":[
+                        {
+                           "name":"white sugar",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"cinnamon sugar",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"no sugar",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"churros dough has no sugar added to it. Add your favorite sugar on top.",
+                     "optSubDesc":"",
+                     "optPrice":0,
+                     "optRequired":1,
+                     "optMax": 1
+                  },
+                  {
+                     "optName":"sauces",
+                     "optOptions":[
+                        {
+                           "name":"quella",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"caramel",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"white chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"pink ruby chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"choose max. 2 sauces.",
+                     "optSubDesc":"",
+                     "optPrice":10,
+                     "optRequired":0,
+                     "optMax": 2
+                  },
+                  {
+                     "optName":"toppings",
+                     "optOptions":[
+                        {
+                           "name":"nuts",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"oreo",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"tivoli sprinkles",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate sprinkles",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"soft ice 0,1l.",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"choose max. 3 toppings",
+                     "optSubDesc":"",
+                     "optPrice":10,
+                     "optRequired":0,
+                     "optMax": 3
+                  }
+               ]
+            },
+            {
+               "name": "waffle stick",
+               "color":"",
+               "dietOpt":"",
+               "subOptions": [
+                  {
+                     "optName":"sauces",
+                     "optOptions":[
+                        {
+                           "name":"quella",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"caramel",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"white chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"pink ruby chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"choose one sauce.",
+                     "optSubDesc":"",
+                     "optPrice":10,
+                     "optRequired":1,
+                     "optMax": 1
+                  },
+                  {
+                     "optName":"toppings",
+                     "optOptions":[
+                        {
+                           "name":"nuts",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"oreo",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"tivoli sprinkles",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate sprinkles",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"choose one topping",
+                     "optSubDesc":"",
+                     "optPrice":10,
+                     "optRequired":1,
+                     "optMax": 1           
+                  }
+               ]
+            },
+            {
+               "name": "belgian waffle",
+               "color":"",
+               "dietOpt":"",
+               "subOptions": [
+                  {
+                     "optName":"gelato",
+                     "optOptions":[
+                        {
+                           "name":"a bit hazel'nutty",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"black panther",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"cheescake heaven",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate obsession",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"lemon bitterness",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"pistachio grinch",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"strawberry dream",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"vanilla bean",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"mango madness",
+                           "color":"",
+                           "dietOpt":"v"
+                        }
+                     ],
+                     "optDesc":"choose one flavor",
+                     "optSubDesc":"",
+                     "optPrice":0,
+                     "optRequired":1,
+                     "optMax": 1
+                  },
+                  {
+                     "optName":"sauces",
+                     "optOptions":[
+                        {
+                           "name":"quella",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"caramel",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"white chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"pink ruby chocolate",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"choose max 2 sauces.",
+                     "optSubDesc":"",
+                     "optPrice":10,
+                     "optRequired":0,
+                     "optMax": 2
+                  },
+                  {
+                     "optName":"toppings",
+                     "optOptions":[
+                        {
+                           "name":"nuts",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"oreo",
+                           "color":"",
+                           "dietOpt":"v"
+                        },
+                        {
+                           "name":"tivoli sprinkles",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"chocolate sprinkles",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                           "name":"soft ice 0,1l.",
+                           "color":"",
+                           "dietOpt":""
+                        }
+                     ],
+                     "optDesc":"choose max. 3 toppings.",
+                     "optSubDesc":"",
+                     "optPrice":10,
+                     "optRequired":0,
+                     "optMax": 3   
+                  }
+               ]
+            }
+         ],
+         "optDesc": "choose one desert.",
+         "optSubDesc":"",
+         "optPrice": 0,
+         "optRequired": 1,
+         "optMax": 1      
+      },
+      {
+         "optName": "drink",
+         "selectOpt":[
+            {
+               "name": "gelato shake",
+               "color":"",
+               "dietOpt": "",
+               "subOptions": [
+                  {
+                     "opt1Name": "gelato",
+                     "opt1Options":[
+                         {
+                            "name":"a bit hazel'nutty",
+                            "color":"",
+                            "dietOpt":""
+                         },
+                         {
+                            "name":"black panther",
+                            "color":"",
+                            "dietOpt":""
+                         },
+                         {
+                            "name":"cheescake heaven",
+                            "color":"",
+                            "dietOpt":""
+                         },
+                         {
+                            "name":"chocolate obsession",
+                            "color":"",
+                            "dietOpt":""
+                         },
+                         {
+                            "name":"lemon bitterness",
+                            "color":"",
+                            "dietOpt":"v"
+                         },
+                         {
+                            "name":"pistachio grinch",
+                            "color":"",
+                            "dietOpt":""
+                         },
+                         {
+                            "name":"strawberry dream",
+                            "color":"",
+                            "dietOpt":"v"
+                         },
+                         {
+                            "name":"vanilla bean",
+                            "color":"",
+                            "dietOpt":""
+                         },
+                         {
+                            "name":"mango madness",
+                            "color":"",
+                            "dietOpt":"v"
+                         }
+                      ],
+                 
+                     "optDesc": "choose one flavor.",
+                     "optSubDesc":"",
+                     "optPrice": 0,
+                     "optRequired": 1,
+                     "optMax": 1           
+                  }
+               ]
+            },
+            {
+               "name": "coffee shake",
+               "color":"",
+               "dietOpt": "",
+               "subOptions": []
+            },
+            {
+               "name": "sorbet smoothie",
+               "color":"",
+               "dietOpt": "v",
+               "subOptions": [
+                  {
+                     "optName": "sorbet",
+                     "optOptions":[
+                         {
+                            "name":"watermelon",
+                            "color":"",
+                            "dietOpt":"v"
+                         },
+                         {
+                            "name":"lemon bitterness",
+                            "color":"",
+                            "dietOpt":"v"
+                         },
+                         {
+                            "name":"strawberry dream",
+                            "color":"",
+                            "dietOpt":"v"
+                         },
+                         {
+                            "name":"mango madness",
+                            "color":"",
+                            "dietOpt":"v"
+                         }
+                      ],
+                     "optDesc": "choose one flavor.",
+                     "optSubDesc":"",
+                     "optPrice": 0,
+                     "optRequired": 1,
+                     "optMax": 1
+                 
+                  }
+               ]
+            },
+            {
+               "name": "ice latte",
+               "color":"",
+               "dietOpt": "v",
+               "subOptions": [
+                  {
+                     "optName": "milk",
+                     "optOptions":[
+                        {
+                           "name": "dairy milk",
+                           "color":"",
+                           "dietOpt":""
+                        },
+                        {
+                         "name": "plantbased milk",
+                         "color":"",
+                         "dietOpt":"v"
+                      }
+                     ],
+                     "optDesc": "choose your milk.",
+                     "optSubDesc":"",
+                     "optPrice": 0,
+                     "optRequired": 1,
+                     "optMax": 1           
+                  }
+               ]
+            },
+            {
+               "name": "water bottle 500ml.",
+               "color":"",
+               "dietOpt": "",
+               "subOptions": []
+            }
+         ],
+         "optDesc": "choose one drink.",
+         "optSubDesc":"",
+         "optPrice": 0,
+         "optRequired": 1,
+         "optMax": 1      
+      }
+   ]
+}
+]
